@@ -1,0 +1,4 @@
+interface:
+  display_name: "城市旅行海报"
+  short_description: "将城市或参考图创作为高级极简扁平矢量旅行海报"
+  default_prompt: "使用 $city-travel-poster，将这张图片转化为一张定制的城市旅行海报。"
