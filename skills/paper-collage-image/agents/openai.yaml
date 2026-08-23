@@ -1,0 +1,4 @@
+interface:
+  display_name: "手工纸质拼贴画"
+  short_description: "将照片或文字场景创作为有层次、带撕边纹理的手工3D纸质拼贴画"
+  default_prompt: "使用 $paper-collage-image 将这张照片转化为手工3D纸质拼贴画。"

@@ -1,0 +1,21 @@
+{
+  "name": "awesome-image-skills",
+  "version": "0.1.0+codex.20260823113448",
+  "description": "A collection of reusable image creation and editing skills for Codex.",
+  "author": {
+    "name": "goodcheng"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Awesome Image Skills",
+    "shortDescription": "Image creation and editing skills",
+    "longDescription": "A collection of reusable image-oriented skills for Codex.",
+    "developerName": "goodcheng",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Help me create or edit an image."
+  }
+}

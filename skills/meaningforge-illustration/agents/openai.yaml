@@ -1,0 +1,4 @@
+interface:
+  display_name: "影义锻造"
+  short_description: "以主形、作用力和反形蒸馏照片，重构精致原创概念插画"
+  default_prompt: "使用 $meaningforge-illustration 提取这张照片的关系与张力，创作一幅无源像素的原创概念插画。"

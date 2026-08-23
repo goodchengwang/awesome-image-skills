@@ -1,0 +1,4 @@
+interface:
+  display_name: "实景编织"
+  short_description: "以摄影锚点、大面积插画场和材料接缝构成精致实景拼贴"
+  default_prompt: "使用 $sourceframe-editorial 将这张照片创作为摄影与插画真正交接的实景拼贴作品。"
