@@ -1,0 +1,4 @@
+interface:
+  display_name: "记忆编辑海报"
+  short_description: "将每张照片分别编辑为摄影与选择性记忆平面重构相结合的3:4高级海报"
+  default_prompt: "使用 $memory-poster-editorial 将我上传的每张照片分别制作成独立的3:4双层记忆编辑海报。"
