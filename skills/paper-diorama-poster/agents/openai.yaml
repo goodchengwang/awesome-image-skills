@@ -1,0 +1,4 @@
+interface:
+  display_name: "纸艺微缩景观海报"
+  short_description: "将每张照片分别编辑成上下各半的3:4摄影与纸艺微缩景观高级海报"
+  default_prompt: "使用 $paper-diorama-poster 将我上传的每张照片分别制作成独立的3:4纸艺微缩景观编辑海报。"
