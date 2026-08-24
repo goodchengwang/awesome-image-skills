@@ -1,0 +1,4 @@
+interface:
+  display_name: "观察式手稿海报"
+  short_description: "将每张照片分别编辑成摄影与钢笔淡彩手稿结合的3:4高级海报"
+  default_prompt: "使用 $observation-sketch-poster 将我上传的每张照片分别制作成独立的3:4摄影与观察式手稿双层海报。"
