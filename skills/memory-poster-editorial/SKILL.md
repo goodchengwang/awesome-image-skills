@@ -1,7 +1,8 @@
 ---
 name: memory-poster-editorial
 description: Edit each user-supplied photograph into its own 3:4 premium editorial memory poster with an untouched real-photography upper half and a selective-memory flat reconstruction with six source-derived stickers below. Use for tactile art-book, travel-memory, and collectible poster treatments; do not use for multi-photo collages, literal full-scene redraws, or ordinary filters.
-inspiration_source: https://x.com/xiaoxiaodong01/status/2091539410533691899
+metadata:
+  inspiration_source: https://x.com/xiaoxiaodong01/status/2091539410533691899
 ---
 
 # Memory Poster Editorial

@@ -1,7 +1,8 @@
 ---
 name: observation-sketch-poster
 description: "Edit each user-supplied photograph into its own 3:4 premium editorial poster with truthful photography above and a selective observational pen-and-wash reconstruction below. Use for restrained art-book, exhibition, travel-memory, and visual-notebook treatments; do not use for multi-photo collages, full-scene redraws, ordinary filters, or commercial poster templates."
-inspiration_source: https://x.com/xiaoxiaodong01/status/2091521812878459186
+metadata:
+  inspiration_source: https://x.com/xiaoxiaodong01/status/2091521812878459186
 ---
 
 # Observation Sketch Poster
