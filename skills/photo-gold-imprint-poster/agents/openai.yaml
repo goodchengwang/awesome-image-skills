@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Gold Imprint Poster"
+  short_description: "Recast each photo as a refined flat-gold editorial imprint"
+  default_prompt: "Use $photo-gold-imprint-poster to edit each uploaded photo into its own photography-and-flat-gold imprint poster."
