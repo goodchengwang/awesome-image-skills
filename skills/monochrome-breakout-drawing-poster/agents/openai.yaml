@@ -1,0 +1,4 @@
+interface:
+  display_name: "Monochrome Breakout Drawing Poster"
+  short_description: "Draw each subject breaking from a black geometric field"
+  default_prompt: "Use $monochrome-breakout-drawing-poster to edit each uploaded photo into its own photography-and-monochrome breakout illustration poster."
