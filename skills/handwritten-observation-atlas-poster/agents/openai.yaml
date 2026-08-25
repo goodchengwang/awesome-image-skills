@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handwritten Observation Atlas Poster"
+  short_description: "Turn each photo into a loose handwritten observation atlas"
+  default_prompt: "Use $handwritten-observation-atlas-poster to edit each uploaded photo into its own photography-and-handwritten observation poster."
