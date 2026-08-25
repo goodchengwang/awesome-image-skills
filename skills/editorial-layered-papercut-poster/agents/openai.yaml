@@ -1,0 +1,4 @@
+interface:
+  display_name: "Editorial Layered Papercut Poster"
+  short_description: "Rebuild photos with restrained layered paper and microtype"
+  default_prompt: "Use $editorial-layered-papercut-poster to edit each uploaded photo into its own photography-and-layered papercut editorial poster."
