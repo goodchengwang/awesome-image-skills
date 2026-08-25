@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bright Impasto Miniature Poster"
+  short_description: "Create airy photo-and-impasto miniature editorial posters"
+  default_prompt: "Use $bright-impasto-miniature-poster to edit each uploaded photo into its own bright photography-and-impasto miniature poster."
