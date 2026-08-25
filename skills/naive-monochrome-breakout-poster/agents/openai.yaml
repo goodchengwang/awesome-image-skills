@@ -1,0 +1,4 @@
+interface:
+  display_name: "Naive Monochrome Breakout Poster"
+  short_description: "Create odd, restrained black-field breakout drawings"
+  default_prompt: "Use $naive-monochrome-breakout-poster to edit each uploaded photo into its own photography-and-naive monochrome breakout poster."
