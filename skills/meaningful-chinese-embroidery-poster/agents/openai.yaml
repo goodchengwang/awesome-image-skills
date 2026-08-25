@@ -1,0 +1,4 @@
+interface:
+  display_name: "Meaningful Chinese Embroidery Poster"
+  short_description: "Distill each photo into one expressive embroidery image"
+  default_prompt: "Use $meaningful-chinese-embroidery-poster to edit each uploaded photo into its own photography-and-Chinese-embroidery poster."
