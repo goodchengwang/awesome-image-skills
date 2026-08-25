@@ -1,0 +1,4 @@
+interface:
+  display_name: "Isometric Watercolor Structure Study Poster"
+  short_description: "Create photo-and-watercolor structural study posters"
+  default_prompt: "Use $isometric-watercolor-structure-study-poster to edit each uploaded photo into its own photography-and-isometric watercolor study poster."
