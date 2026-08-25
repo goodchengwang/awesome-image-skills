@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilingual Retro Naive Editorial Poster"
+  short_description: "Create airy retro-naive editorial photo diptychs"
+  default_prompt: "Use $bilingual-retro-naive-editorial-poster to edit each uploaded photo into its own retro-naive photography-and-illustration poster."
