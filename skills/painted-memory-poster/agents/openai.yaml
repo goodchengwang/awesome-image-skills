@@ -1,0 +1,4 @@
+interface:
+  display_name: "绘忆双层海报"
+  short_description: "将每张照片分别编辑成真实摄影与留白绘画记忆呼应的3:4高级海报"
+  default_prompt: "使用 $painted-memory-poster 将我上传的每张照片分别制作成独立的3:4摄影与绘画记忆双层海报。"
