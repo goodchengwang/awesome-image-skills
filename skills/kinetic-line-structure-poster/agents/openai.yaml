@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kinetic Line Structure Poster"
+  short_description: "Rebuild each photo through dense kinetic line structure"
+  default_prompt: "Use $kinetic-line-structure-poster to edit each uploaded photo into its own photography-and-kinetic line experiment poster."
