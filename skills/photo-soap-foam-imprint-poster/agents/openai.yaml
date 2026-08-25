@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Soap Foam Imprint Poster"
+  short_description: "Recast each photo as a restrained flat soap-foam imprint"
+  default_prompt: "Use $photo-soap-foam-imprint-poster to edit each uploaded photo into its own photography-and-soap-foam imprint poster."
