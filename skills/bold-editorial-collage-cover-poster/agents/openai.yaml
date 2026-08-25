@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bold Editorial Collage Cover Poster"
+  short_description: "Recast photos as layered high-fashion collage covers"
+  default_prompt: "Use $bold-editorial-collage-cover-poster to edit each uploaded photo into its own photography-and-bold editorial collage poster."
