@@ -1,0 +1,4 @@
+interface:
+  display_name: "Symbolic Folk Geometry Poster"
+  short_description: "Distill photos into symbolic geometry and tactile folk print"
+  default_prompt: "Use $symbolic-folk-geometry-poster to edit each uploaded photo into its own photography-and-symbolic folk print poster."
