@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanist Geometric Relief Poster"
+  short_description: "Reduce each photo to calm humanist geometry and relief"
+  default_prompt: "Use $humanist-geometric-relief-poster to edit each uploaded photo into its own photography-and-humanist geometric poster."
