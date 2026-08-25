@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Folk Rubbing Geometry Poster"
+  short_description: "Build source-led folk rubbing posters on precise geometry"
+  default_prompt: "Use $photo-folk-rubbing-geometry-poster to edit each uploaded photo into its own photography-and-geometric folk-rubbing poster."
