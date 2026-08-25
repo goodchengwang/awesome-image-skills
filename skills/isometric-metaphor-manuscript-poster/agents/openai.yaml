@@ -1,0 +1,4 @@
+interface:
+  display_name: "Isometric Metaphor Manuscript Poster"
+  short_description: "Create isometric metaphor posters with manuscript studies"
+  default_prompt: "Use $isometric-metaphor-manuscript-poster to edit each uploaded photo into its own isometric metaphor-and-manuscript poster."
