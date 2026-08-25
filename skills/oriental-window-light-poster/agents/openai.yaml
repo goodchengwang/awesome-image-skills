@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oriental Window Light Poster"
+  short_description: "Frame each photo through soft traditional-window light"
+  default_prompt: "Use $oriental-window-light-poster to edit each uploaded photo into its own photography-and-soft window-light poster."
