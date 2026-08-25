@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Halftone Distance Poster"
+  short_description: "Place tiny subjects in vast halftone distance and silence"
+  default_prompt: "Use $minimal-halftone-distance-poster to edit each uploaded photo into its own photography-and-minimal halftone poster."
