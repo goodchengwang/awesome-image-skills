@@ -1,0 +1,4 @@
+interface:
+  display_name: "Woodcut Memory Poster"
+  short_description: "Turn each photo into a split photo-and-woodcut poster"
+  default_prompt: "Use $woodcut-memory-poster to edit each uploaded photo into its own 3:4 photo-and-woodcut poster."
