@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pastel Impossible Space Poster"
+  short_description: "Translate photos into original pastel impossible spaces"
+  default_prompt: "Use $pastel-impossible-space-poster to edit each uploaded photo into its own photography-and-pastel impossible-space poster."
