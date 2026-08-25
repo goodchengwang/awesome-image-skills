@@ -1,0 +1,4 @@
+interface:
+  display_name: "Philosophical Continuous Line Poster"
+  short_description: "Distill each photo into meaningful line and silence"
+  default_prompt: "Use $philosophical-continuous-line-poster to edit each uploaded photo into its own photography-and-philosophical line poster."
