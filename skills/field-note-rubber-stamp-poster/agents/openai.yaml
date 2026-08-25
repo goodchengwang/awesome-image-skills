@@ -1,0 +1,4 @@
+interface:
+  display_name: "Field Note Rubber Stamp Poster"
+  short_description: "Turn photos into collectible multicolor field-note stamps"
+  default_prompt: "Use $field-note-rubber-stamp-poster to edit each uploaded photo into its own photography-and-rubber-stamp field-note poster."
