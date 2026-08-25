@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retro Modernist Editorial Poster"
+  short_description: "Recast each photo as a limited-color modernist print"
+  default_prompt: "Use $retro-modernist-editorial-poster to edit each uploaded photo into its own photography-and-retro modernist poster."
