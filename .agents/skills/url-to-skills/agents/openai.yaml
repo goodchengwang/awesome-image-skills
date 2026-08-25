@@ -1,0 +1,4 @@
+interface:
+  display_name: "URL to Skills"
+  short_description: "Extract URL prompts into source-traced project skills"
+  default_prompt: "Use $url-to-skills with this URL to extract its reusable workflow and create validated, source-traced skills in the current project."
