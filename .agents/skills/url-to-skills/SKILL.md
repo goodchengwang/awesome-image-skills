@@ -123,21 +123,11 @@ For image-generation or image-editing prompts:
 
 For non-image prompts, build the appropriate Codex workflow skill instead of forcing image-specific instructions.
 
-## Delegate creation serially
+## Create locally and verify
 
-When subagents are available, use one creation subagent at a time so Git commits and shared files cannot race.
+Create each skill directly in the current workspace. Do not use subagents for source extraction, skill authoring, validation, or commits; this workflow is intentionally small enough to keep in one agent and avoids coordination overhead.
 
-Before spawning a new creation worker, make the source-to-prompt mapping visible in the parent turn, then spawn with full inherited context and the exact creation task below. When reusing an existing worker, first send the canonical source URL as a non-triggering context message, then trigger the creation turn with exactly:
-
-```text
-帮我创建一个新的编辑图片的 skill,不允许修改已存在 skill，prompt 如下：{extracted_prompt}
-```
-
-Do not append the URL or orchestration instructions to that task text. The worker must obtain `inspiration_source` from inherited or separately delivered context. If it pauses because the URL is unavailable, provide the URL with a non-triggering context message and trigger the same exact task text again.
-
-For a non-image source, replace only `编辑图片` with the concise capability category required by the extracted prompt; keep the rest of the task shape unchanged.
-
-After the subagent finishes, independently inspect the result. Reject or repair the new skill before continuing when it:
+After authoring each skill, independently inspect the result and repair it before continuing when it:
 
 - modifies a pre-existing skill;
 - omits or misstates `inspiration_source`;
