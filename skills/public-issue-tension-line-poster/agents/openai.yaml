@@ -1,0 +1,4 @@
+interface:
+  display_name: "Public Issue Tension Line Poster"
+  short_description: "Distill photos into tense, restrained issue-driven linework"
+  default_prompt: "Use $public-issue-tension-line-poster to edit each uploaded photo into its own photography-and-conceptual tension-line poster."
