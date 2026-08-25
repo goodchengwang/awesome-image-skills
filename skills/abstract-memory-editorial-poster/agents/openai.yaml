@@ -1,0 +1,4 @@
+interface:
+  display_name: "Abstract Memory Editorial Poster"
+  short_description: "Distill each photo into abstract memory and microtype"
+  default_prompt: "Use $abstract-memory-editorial-poster to edit each uploaded photo into its own photography-and-abstract editorial memory poster."
