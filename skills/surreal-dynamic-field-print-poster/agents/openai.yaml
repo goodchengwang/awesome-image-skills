@@ -1,0 +1,4 @@
+interface:
+  display_name: "Surreal Dynamic Field Print Poster"
+  short_description: "Place tiny subjects inside vast single-motion print fields"
+  default_prompt: "Use $surreal-dynamic-field-print-poster to edit each uploaded photo into its own photography-and-dynamic field print poster."
