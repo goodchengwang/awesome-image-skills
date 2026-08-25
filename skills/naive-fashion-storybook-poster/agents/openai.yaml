@@ -1,0 +1,4 @@
+interface:
+  display_name: "Naive Fashion Storybook Poster"
+  short_description: "Recast photos as witty vintage fashion-storybook art"
+  default_prompt: "Use $naive-fashion-storybook-poster to edit each uploaded photo into its own photography-and-naive fashion illustration poster."
