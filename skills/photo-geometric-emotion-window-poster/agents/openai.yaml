@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Geometric Emotion Window Poster"
+  short_description: "Stage real subjects through elegant geometric color windows"
+  default_prompt: "Use $photo-geometric-emotion-window-poster to edit each uploaded photo into its own photography-and-geometric-window poster."
