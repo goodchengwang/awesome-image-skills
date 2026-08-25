@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hand-Drawn Doodle Portrait"
+  short_description: "Turn portraits into identity-preserving doodles"
+  default_prompt: "Use $hand-drawn-doodle-portrait to turn this portrait into a recognizable handmade doodle."
