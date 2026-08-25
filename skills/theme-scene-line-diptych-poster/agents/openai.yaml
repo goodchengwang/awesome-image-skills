@@ -1,0 +1,4 @@
+interface:
+  display_name: "Theme Scene Line Diptych Poster"
+  short_description: "Build real-feeling themed scenes with line-art echoes"
+  default_prompt: "Use $theme-scene-line-diptych-poster to turn my latest theme or place into a printable scene-and-line diptych poster."
