@@ -1,0 +1,4 @@
+interface:
+  display_name: "Small Subject Acrylic Cover Poster"
+  short_description: "Create quiet small-subject acrylic book-cover posters"
+  default_prompt: "Use $small-subject-acrylic-cover-poster to edit each uploaded photo into its own photography-and-minimal acrylic cover poster."
