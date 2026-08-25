@@ -1,0 +1,4 @@
+interface:
+  display_name: "Organic Color Field Line Poster"
+  short_description: "Blend continuous linework with flowing organic color fields"
+  default_prompt: "Use $organic-color-field-line-poster to edit each uploaded photo into its own photography-and-organic color-field line poster."
