@@ -1,0 +1,4 @@
+interface:
+  display_name: "摄影矢量双景海报"
+  short_description: "将每张照片独立编辑为上下等分的真实摄影与定制旅行插画海报"
+  default_prompt: "使用 $photo-vector-diptych-poster 将我上传的每张照片分别制作成独立的3:4摄影与扁平旅行插画双景海报。"
