@@ -1,0 +1,4 @@
+interface:
+  display_name: "Korean Naive Flat Editorial Poster"
+  short_description: "Recast photos as bright, naive Korean flat illustration"
+  default_prompt: "Use $korean-naive-flat-editorial-poster to edit each uploaded photo into its own photography-and-naive flat editorial poster."
