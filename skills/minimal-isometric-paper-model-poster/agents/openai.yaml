@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimal Isometric Paper Model Poster"
+  short_description: "Turn each photo into a quiet isometric paper model"
+  default_prompt: "Use $minimal-isometric-paper-model-poster to edit each uploaded photo into its own photography-and-isometric paper model poster."
