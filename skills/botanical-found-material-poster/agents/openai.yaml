@@ -1,0 +1,4 @@
+interface:
+  display_name: "Botanical Found Material Poster"
+  short_description: "Rebuild each photo with real botanical found materials"
+  default_prompt: "Use $botanical-found-material-poster to edit each uploaded photo into its own photography-and-botanical assemblage poster."
