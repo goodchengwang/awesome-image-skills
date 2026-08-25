@@ -1,0 +1,4 @@
+interface:
+  display_name: "Isometric Healing Block Sculpture Poster"
+  short_description: "Rebuild each photo as an airy modular block sculpture"
+  default_prompt: "Use $isometric-healing-block-sculpture-poster to edit each uploaded photo into its own photography-and-healing-block-sculpture poster."
