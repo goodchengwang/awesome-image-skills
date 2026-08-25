@@ -1,0 +1,4 @@
+interface:
+  display_name: "Watercolor Travel Ticket Poster"
+  short_description: "Turn each photo into a collectible watercolor ticket stub"
+  default_prompt: "Use $watercolor-travel-ticket-poster to edit each uploaded photo into its own photography-and-watercolor ticket poster."
