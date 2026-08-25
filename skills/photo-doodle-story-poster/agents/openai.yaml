@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Doodle Story Poster"
+  short_description: "Turn each photo into a witty real-object doodle story"
+  default_prompt: "Use $photo-doodle-story-poster to edit each uploaded photo into its own real-subject and black-line doodle story poster."
