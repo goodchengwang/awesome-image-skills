@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saturated Voxel Brick Poster"
+  short_description: "Rebuild photos as vivid collectible voxel-brick art"
+  default_prompt: "Use $saturated-voxel-brick-poster to edit each uploaded photo into its own photography-and-vivid voxel-brick poster."
