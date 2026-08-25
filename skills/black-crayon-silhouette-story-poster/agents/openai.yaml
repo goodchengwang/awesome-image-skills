@@ -1,0 +1,4 @@
+interface:
+  display_name: "Black Crayon Silhouette Story Poster"
+  short_description: "Recast each photo as a rough black crayon story silhouette"
+  default_prompt: "Use $black-crayon-silhouette-story-poster to edit each uploaded photo into its own photography-and-black-crayon silhouette poster."
