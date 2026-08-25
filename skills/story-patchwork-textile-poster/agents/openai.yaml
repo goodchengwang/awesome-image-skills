@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Patchwork Textile Poster"
+  short_description: "Recast each photo as a warm story-led textile collage"
+  default_prompt: "Use $story-patchwork-textile-poster to edit each uploaded photo into its own photography-and-story-patchwork poster."
