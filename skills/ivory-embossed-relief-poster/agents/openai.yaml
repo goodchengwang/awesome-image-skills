@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ivory Embossed Relief Poster"
+  short_description: "Create quiet photo-and-ivory embossed relief posters"
+  default_prompt: "Use $ivory-embossed-relief-poster to edit each uploaded photo into its own photography-and-ivory embossed relief poster."
