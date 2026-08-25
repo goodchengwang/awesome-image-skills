@@ -1,0 +1,4 @@
+interface:
+  display_name: "Origami Paper Sculpture Poster"
+  short_description: "Turn each photo into a sculptural folded-paper artwork"
+  default_prompt: "Use $origami-paper-sculpture-poster to edit each uploaded photo into its own photography-and-origami paper sculpture poster."
