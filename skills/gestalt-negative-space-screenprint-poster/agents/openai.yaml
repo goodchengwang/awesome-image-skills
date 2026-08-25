@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gestalt Negative Space Screenprint Poster"
+  short_description: "Fuse each photo into a two-read negative-space screenprint"
+  default_prompt: "Use $gestalt-negative-space-screenprint-poster to edit each uploaded photo into its own photography-and-Gestalt screenprint poster."
