@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fairytale Dark Field Print Poster"
+  short_description: "Recast photos as bold dark-field fairytale prints"
+  default_prompt: "Use $fairytale-dark-field-print-poster to edit each uploaded photo into its own photography-and-fairytale print poster."
