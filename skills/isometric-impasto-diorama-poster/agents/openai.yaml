@@ -1,0 +1,4 @@
+interface:
+  display_name: "Isometric Impasto Diorama Poster"
+  short_description: "Create bright photo-and-impasto isometric diorama posters"
+  default_prompt: "Use $isometric-impasto-diorama-poster to edit each uploaded photo into its own bright photography-and-impasto-diorama poster."
