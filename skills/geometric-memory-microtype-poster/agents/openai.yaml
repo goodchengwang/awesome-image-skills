@@ -1,0 +1,4 @@
+interface:
+  display_name: "Geometric Memory Microtype Poster"
+  short_description: "Rebuild photos as ivory geometry and editorial microtype"
+  default_prompt: "Use $geometric-memory-microtype-poster to edit each uploaded photo into its own photography-and-geometric memory poster."
