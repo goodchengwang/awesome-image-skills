@@ -1,0 +1,4 @@
+interface:
+  display_name: "Travel Pop-Up City Book"
+  short_description: "Turn travel photos into premium pop-up city book posters"
+  default_prompt: "Use $travel-pop-up-city-book to transform each uploaded travel photo into a separate 3:4 pop-up city book poster."
