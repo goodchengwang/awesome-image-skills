@@ -1,0 +1,4 @@
+interface:
+  display_name: "四等分照片转译海报"
+  short_description: "将每张照片分别制作成四层等高的高级风格转译海报"
+  default_prompt: "使用 $four-quarter-photo-translation-poster 将我上传的每张照片分别制作成独立的四层等高转译海报。"

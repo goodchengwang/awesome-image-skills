@@ -1,0 +1,4 @@
+interface:
+  display_name: "炭笔消失旅行研究"
+  short_description: "将每张旅行照片分别编辑成真实摄影与消失炭笔素描海报"
+  default_prompt: "使用 $charcoal-memory-travel-poster 将我上传的每张旅行照片分别制作成独立的3:4真实照片与消失炭笔记忆素描海报。"
