@@ -1,0 +1,4 @@
+interface:
+  display_name: "Selective Memory Editorial Poster"
+  short_description: "Turn each photo into a poetic 3:4 memory poster"
+  default_prompt: "Use $selective-memory-editorial-poster to edit each uploaded photo into an independent 3:4 selective-memory editorial poster."
