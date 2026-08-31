@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Sketch Memory Page"
+  short_description: "Create a nostalgic editorial photo-to-ink-sketch art-book page."
+  default_prompt: "Use $photo-sketch-memory-page to transform the supplied photograph into a connected upper-photo and lower-hand-drawn-sketch editorial art-book page."
