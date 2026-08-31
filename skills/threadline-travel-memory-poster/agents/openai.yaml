@@ -1,0 +1,4 @@
+interface:
+  display_name: "线迹旅行记忆海报"
+  short_description: "将旅行照片编辑成负形人物与连续线迹连接的双层记忆海报"
+  default_prompt: "使用 $threadline-travel-memory-poster 将我上传的每张旅行照片分别制作成独立的3:4线迹旅行记忆海报。"
