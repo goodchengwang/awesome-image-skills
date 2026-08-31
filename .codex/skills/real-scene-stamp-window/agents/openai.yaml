@@ -1,0 +1,4 @@
+interface:
+  display_name: "Real-Scene Stamp Window"
+  short_description: "Turn travel photos into real-scene anime stamp-window artworks"
+  default_prompt: "Use $real-scene-stamp-window to turn each uploaded travel photo into a separate real-scene anime stamp-window artwork."
